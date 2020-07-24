@@ -1,2 +1,9 @@
-# thingful-client-DATAPROT
-Thingful lesson Data Protection added with bcrypt
+# Thingful Client
+
+## Setting Up
+
+- Install dependencies: `npm install`
+
+## Scripts
+
+- Start the application for development: `npm start`
